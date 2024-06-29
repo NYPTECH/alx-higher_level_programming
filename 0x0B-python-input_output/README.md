@@ -1,1 +1,1 @@
- This folder is about input and output
+This is my input output projct in python
